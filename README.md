@@ -1,1 +1,1 @@
-# cinama
+# cinema
